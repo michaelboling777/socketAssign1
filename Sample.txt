@@ -1,0 +1,26 @@
+------------------------------------------
+
+Sample output : 
+For TCP: 
+./Cal localhost 150000 30 4.69
+                                150000
+                                777.055
+                                279740
+
+./Cal localhost 150000 -30 4.69
+Error, please input the following command line arguments in the following order: 
+host-name/IP address of the server, given loan amount, loan period, 
+annual interest rate
+
+For UDP: 
+
+./Cal localhost 150000 30 4.69
+                                150000
+                                777.055
+                                279740
+
+./Cal localhost 150000 -30 4.69
+Error, please input the following command line arguments in the following order: 
+host-name/IP address of the server, given loan amount, loan period, 
+annual interest rate
+
